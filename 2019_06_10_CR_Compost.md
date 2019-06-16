@@ -1,0 +1,59 @@
+Date : 10/06/2019
+# 1ère rencontre des animateurs compost
+
+## Présences :
+- Vincent
+- Sylvie
+- Marylin
+
+## Ordre du jour :
+- Présentation des animateurs compost
+- Définition des objectifs du compostage et du groupe compost
+- Définition du processus de récolte de matières organiques
+
+### Présentation des animateurs du compostage
+Vincent : nouvel adhérent du jardin, élu référant compost à la dernière AG (date...), connaissances théoriques sommaires en compost et essai pratique sur le balcon.
+Sylvie : adhérente depuis quelques années, a participé à la 2ème initiative compost, composte déjà ses déchets organiques, a des connaissances en compost et en permaculture.
+Marylin : adhérente historique, a participé à la première initiative compost, a des connaissances en compost.
+
+### Définition des objectifs du compostage et du groupe compost
+#### Un **compost** dans le **Jardin de la Cité Aubry** ?
+##### Pourquoi un compost ?
+- Pour créer un **engrai naturel gratuit** à usage personnel ou dans le jardin partagé
+- Pour **réduire nôtre empreinte écologique** (moins de déchets, enrichi la terre, préserve la biodiversité...)
+
+##### Pourquoi dans le Jardin de la Cité Aubry ?
+- Pour **animer** le jardin d'une activité collaborative
+- Pour **entretenir** les parties communes (récolter les déchets végétaux, enrichir la terre)
+- Pour **transmettre** le savoir-faire compost
+- Pour **sensibiliser** au réemploi des déchets verts du jardin
+
+#### Quels rôles pour le groupe compost ?
+Le groupe compost se donne comme objectifs sur 12 mois (soit jusqu'à juin 2020) :
+- **Responsabiliser les adhérents** à l'intérêt et l'usage du compost
+- **Réussir un compost de 200L** (pédagogique) et **faire une fête de la terre** pour distribuer le compost
+- **Améliorer la santé du sol** du jardin
+
+### Définition du processus de récolte de matières organiques
+Ce qui suit est une ébauche du processus de récolte à venir:
+>Le composteur pédagogique de 200L installé près de la citerne est vérouillé par un cadenas à code.
+Le code est connu uniquement des animateurs compost.
+<br>Ainsi le composteur est ouvert seulement en présence d'un animateur. A minima lors d'une permanence hebdomadaire.
+<br>Cette personne à pour rôle **d'accompagner les adhérents** qui rapportent leur matières organiques :
+- elle vérifie les apports avec l'adhérent,
+- lui demande de trier ce qui ne va pas,
+- lui demande de découper ce qui est trop gros,
+- lui explique l'intérêt de ces actions.
+
+ **Jusqu'au 29/06/2019** (date de la formation compost de Marylin et Vincent) **la permanence récolte sera assurée le dimanche de 14h à 16h mais sera restreinte aux animateurs du groupe compost**.<br> Cela donnera le temps aux animateurs d'expérimenter la tenue de permanence, la récolte, de se poser des questions (et d'avoir les réponses le 29/06). <br>Ainsi nous pourrons construire ensemble une ligne de conduite claire quant au bon fonctionnement du compost (*point clé pour être crédible face aux adhérents du jardin!*).
+
+## Actions pour le 23/06
+ - Animer la permanence du 16 juin **@_???**
+ - Animer la permanence du 23 juin **@_???**
+ - Lister les questions à poser au formateur du 29 juin **@_Tous (sur whatsapp)**
+ - Trouver un guide de récolte à destination des adhérents **@_???**
+ - Monter un bac pour matières sèches **@_Marylin, @_Sylvie, @_Vincent**
+ - Rappeler en détail le mode de décision proposé pour le groupe: le consensus plutôt que le vôte **@_Vincent**
+
+## Prochaine réunion
+Le **dimanche 23 juin de 15h à 16h**, à l'occasion de la permanence compost au jardin
