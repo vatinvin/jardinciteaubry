@@ -40,10 +40,10 @@ Ce qui suit est une ébauche du processus de récolte à venir:
 Le code est connu uniquement des animateurs compost.
 <br>Ainsi le composteur est ouvert seulement en présence d'un animateur. A minima lors d'une permanence hebdomadaire.
 <br>Cette personne à pour rôle **d'accompagner les adhérents** qui rapportent leur matières organiques :
-- elle vérifie les apports avec l'adhérent,
-- lui demande de trier ce qui ne va pas,
-- lui demande de découper ce qui est trop gros,
-- lui explique l'intérêt de ces actions.
+>- elle vérifie les apports avec l'adhérent,
+>- lui demande de trier ce qui ne va pas,
+>- lui demande de découper ce qui est trop gros,
+>- lui explique l'intérêt de ces actions.
 
  **Jusqu'au 29/06/2019** (date de la formation compost de Marylin et Vincent) **la permanence récolte sera assurée le dimanche de 14h à 16h mais sera restreinte aux animateurs du groupe compost**.<br> Cela donnera le temps aux animateurs d'expérimenter la tenue de permanence, la récolte, de se poser des questions (et d'avoir les réponses le 29/06). <br>Ainsi nous pourrons construire ensemble une ligne de conduite claire quant au bon fonctionnement du compost (*point clé pour être crédible face aux adhérents du jardin!*).
 
