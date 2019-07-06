@@ -2,7 +2,7 @@
 layout: default
 title: Jardin Cité Aubry - Compost - Accueil
 ---
-# Jardin de la Cité Aubry</h1>
+# Jardin de la Cité Aubry
 ## Groupe Compost
 ### Compte rendu   
 - [1ère réunion](2019_06_10_CR_Compost.html")
