@@ -1,4 +1,4 @@
-Date : 23/06/2019
+Date : 29/06/2019
 # Formation référent site compost partagé
 
 ## Présences :
@@ -11,6 +11,7 @@ Date : 23/06/2019
 - Sensibilisation aux problèmes des déchets
 - Formation théorique sur le compostage
 - Formation théorique sur la gestion d'un compost partagé en bac
+- Réponses aux questions
 - Exercice pratique d'évaluation et de rééquilibrage d'un compost
 
 ## Rappel du cadre de le formation
@@ -86,7 +87,7 @@ Les référents compost :
 - sont des animateurs autour des entretiens occasionnels du compost (au début, à chaque tiers, à maturation)
 - gèrent les relations avec l'extérieur (achat, contact maitre composteur...)
 
-## Réponse aux questions :
+## Réponses aux questions :
 - Beaucoup de moucherons, mauvais signe ?
   - Il y aura toujours des moucherons, pour limiter leur propagation, assurer un bon équilibre *Vert*/*Brun* ( beaucoup de moucherons = peut-être ajouter du *Brun* ). Enfouir les fruits. Mettre un voilage ou un carton sur le compost pour éviter que l'odeur n'attire les moucherons.
 - Sur le béton, est-ce grave ?

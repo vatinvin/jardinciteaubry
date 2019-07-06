@@ -1,0 +1,40 @@
+Date : 03/07/2019
+# 3ème rencontre des animateurs compost
+
+## Présences :
+- Vincent
+- Marilyn
+- Sylvie
+- Violaine
+
+## Ordre du jour :
+- Partager nos retours de la formation référent site compost
+- Déterminer les actions à mener les plus importantes et les plus prioritaires
+
+## Partager nos retours de la formation référent site compost
+voir [2019_06_29_CR_Formation référent site.html](./2019_06_29_CR_Formation_referent_site.html)
+
+## Déterminer les actions à mener les plus importantes et les plus prioritaires
+Suite à un atelier collaboratif voici les actions à mener :
+
+| Action         | Importance     | Priorité       | Affecté à |
+| :------------- | :------------- | :------------- ||
+| Trouver un accompagnement par un maître composteur | ++++ | +++ | @Violaine|
+| Rédiger notre projet et le rendre visible | ++| +++|  *trop complexe* |
+| Définir nos choix quant aux apports | ++ | +++ | @Marylin |
+| Etablir une liste des participants | + | + | |
+| Afficher la signalétique sur les bacs | + | + ||
+| Trouver du broyat |+| +||
+| Suivre la formation GC21 "Déchets Verts" | -|-   | |
+| Liste le matériel à commander  | - | -||
+| Obtenir des bio-seaux  | - | -||
+| Tenir une fiche de suivi du compost  | - |  - |   |
+| Rédiger une FAQ  | - | - ||
+| Tenir des permanences régulières  |  - | -  |   |
+
+***Rédiger notre projet et le rendre visible*** est une tache trop complexe pour être traitée par une seule personne. Nous devons découper cette tache en plus petites taches réalisables.
+Pour commencer nous allons ***Définir nos choix quant aux apports*** en s'appuyant sur les réponses aux questions que nous avons listées [ICI](./2019_06_29_CR_Formation_referent_site.html#réponse-aux-questions-)
+
+
+## Prochaine réunion
+Le ***??* juillet à *??***
