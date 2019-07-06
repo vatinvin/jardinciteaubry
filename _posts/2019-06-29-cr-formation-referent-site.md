@@ -33,7 +33,7 @@ Autre contact :
 Patric Poignard, Maître composteur de la maire de Paris, il gère le broyat.
 
 ## Sensibilisation aux problèmes des déchets
-L'Agence de l'Environnement et de la Maîtrise Energétique (ADEME), analyse et classifie les ordures produites en France, voir [Infographie des chiffres clés de 2018](/assets/dechets_chiffres_cles_essentiel2018_infographie_010691.pdf).
+L'Agence de l'Environnement et de la Maîtrise Energétique (ADEME), analyse et classifie les ordures produites en France, voir [Infographie des chiffres clés de 2018](../../../assets/dechets_chiffres_cles_essentiel2018_infographie_010691.pdf).
 C'est aussi l'ADEME qui promeut la réduction des déchets à la source, le compostage en fait parti.
 
 
@@ -92,7 +92,7 @@ Les référents compost :
 - sont des animateurs autour des entretiens occasionnels du compost (au début, à chaque tiers, à maturation)
 - gèrent les relations avec l'extérieur (achat, contact maitre composteur...)
 
-## Réponses aux questions :
+## Réponses aux questions
 - Beaucoup de moucherons, mauvais signe ?
   - Il y aura toujours des moucherons, pour limiter leur propagation, assurer un bon équilibre *Vert*/*Brun* ( beaucoup de moucherons = peut-être ajouter du *Brun* ). Enfouir les fruits. Mettre un voilage ou un carton sur le compost pour éviter que l'odeur n'attire les moucherons.
 - Sur le béton, est-ce grave ?
