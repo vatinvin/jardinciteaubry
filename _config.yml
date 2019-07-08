@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Jardin Cité Aubry - compost
 description: Vous trouverez sur cette page les comptes rendus des réunions du groupe compost
+baseurl: jardinciteaubry
 markdown: kramdown
