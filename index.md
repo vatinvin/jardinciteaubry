@@ -1,7 +1,3 @@
----
-layout: default
-title: Compost - Accueil
----
 # Jardin de la Cité Aubry
 ## Groupe Compost
 ### Compte rendu   
