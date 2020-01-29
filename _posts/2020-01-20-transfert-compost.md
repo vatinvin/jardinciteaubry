@@ -27,11 +27,11 @@ Malgré la difficulté en ressource de brun le compost à un bon taux d'humidit�
 
 Le composteur pédagogique fait 300L. A 5 foyers, avec des apports irréguliers, nous l'avons rempli en 7 mois. On peut projeter pour le remplissage du prochain bac de 300L de monter jusqu'à 10 foyers, et donc de le remplir en 3 mois.  
 
-![Des Vers !](assets/images/2020-01-22_transfert pour maturation_vers.jpeg)
-![La Team !](assets/images/2020-01-22_transfert pour maturation_groupe.jpeg)
-![ohhh...](assets/images/2020-01-22_transfert pour maturation_bache1.jpeg)
-![hiiiiissse !](assets/images/2020-01-22_transfert pour maturation_bache2.jpeg)
-![Vive la bâche !](assets/images/2020-01-22_transfert pour maturation_bache4.jpeg)
+![Des Vers !](../../../assets/images/2020-01-22_transfert pour maturation_vers.jpeg)
+![La Team !](../../../assets/images/2020-01-22_transfert pour maturation_groupe.jpeg)
+![ohhh...](../../../assets/images/2020-01-22_transfert pour maturation_bache1.jpeg)
+![hiiiiissse !](../../../assets/images/2020-01-22_transfert pour maturation_bache2.jpeg)
+![Vive la bâche !](../../../assets/images/2020-01-22_transfert pour maturation_bache4.jpeg)
 
 ## Contact
 Nicolas Sin

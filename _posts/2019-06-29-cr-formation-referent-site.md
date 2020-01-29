@@ -33,7 +33,7 @@ Autre contact :
 Patric Poignard, Maître composteur de la maire de Paris, il gère le broyat.
 
 ## Sensibilisation aux problèmes des déchets
-L'Agence de l'Environnement et de la Maîtrise Energétique (ADEME), analyse et classifie les ordures produites en France, voir [Infographie des chiffres clés de 2018](../../../assets/dechets_chiffres_cles_essentiel2018_infographie_010691.pdf).
+L'Agence de l'Environnement et de la Maîtrise Energétique (ADEME), analyse et classifie les ordures produites en France, voir [Infographie des chiffres clés de 2018](../../../assets/documents/dechets_chiffres_cles_essentiel2018_infographie_010691.pdf).
 C'est aussi l'ADEME qui promeut la réduction des déchets à la source, le compostage en fait parti.
 
 
